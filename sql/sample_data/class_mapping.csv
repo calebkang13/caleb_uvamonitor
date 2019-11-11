@@ -1,0 +1,26 @@
+1|co2, carbon, dioxide
+2|air humidity, humid
+3|air pressure
+4|room air temperature, tmp, temp
+5|facility operation status, operations
+6|setpoint
+7|air flow volume, vol, airflow
+8|hot water supply temperature, tmp, temp
+9|hot water return temperature, tmp, temp
+10|cold water supply temperature, tmp, temp
+11|cold water return temperature, tmp, temp
+12|supply air temperature, tmp, temp
+13|return air temperature, tmp, temp
+14|heater entering temperature, tmp, temp, enter
+15|heater leaving temperature, tmp, temp, leave
+16|heater med temperature, tmp, temp
+17|mixed air temperature, tmp, temp
+18|ice Tank enter temperature, tmp, temp
+19|ice Tank leave temperature, tmp, temp
+20|dew point temperature, tmp, temp, dewpoint
+21|occupancy, occupied, occupy
+30|vavle position
+31|power measurement, pwr
+32|control point, ctrl
+33|fan speed, spd
+34|timer, time
